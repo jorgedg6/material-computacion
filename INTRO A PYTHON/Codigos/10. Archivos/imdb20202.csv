@@ -1,0 +1,648 @@
+USER;TIPO;CODE;ORIGINAL;SPAIN;LATAM
+0;movie;3281548;Little Women;Mujercitas (Spain);Mujercitas (Chile)
+0;movie;1375666;Inception;Origen (Spain);El origen (Chile)
+0;movie;0264150;View from the Top;Amor en el aire (Spain);Volando alto (Argentina)
+0;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+0;show;3281548;Little Women;Mujercitas (Spain);Mujercitas (Chile)
+0;show;6468322;Money Heist;La Casa de Papel: Parte 3 (Spain) (third season title);ND
+1;movie;0414387;Pride & Prejudice;Pride & Prejudice (Orgullo y prejuicio) (Spain);Orgullo y prejuicio (Argentina)
+1;movie;0816692;Interstellar;Interstellar (Spain);Interestelar (Chile)
+1;movie;5726616;Call Me by Your Name;Call Me by Your Name (Spain);Llámame por tu nombre (Chile)
+1;show;5421602;Anne with an E;Anne with an E (Spain);Anne with an E (Argentina)
+1;show;1475582;Sherlock;Sherlock (Spain);ND
+1;show;7569592;Chilling Adventures of Sabrina;Las escalofriantes aventuras de Sabrina (Spain);El mundo oculto de Sabrina (Argentina)
+2;movie;2980516;The Theory of Everything;La teoría del todo (Spain);La teoría del todo (Chile)
+2;movie;7286456;Joker;Joker (Spain);Guasón (Chile)
+2;movie;4154796;Avengers: Endgame;Vengadores: Endgame (Spain);Avengers: Endgame (Chile)
+2;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+2;show;4052886;Lucifer;Lucifer (Spain);ND
+2;show;1632701;Suits;Suits (Spain);La ley de los audaces (Argentina)
+3;movie;0319262;The Day After Tomorrow;El día de mañana (Spain);El día después de mañana (Argentina)
+3;movie;0441773;Kung Fu Panda;Kung Fu Panda (Spain);Kung Fu Panda (Argentina)
+3;movie;0881320;Sanctum;El santuario (Sanctum) (Spain);Sanctum (Argentina)
+3;show;0944947;Game of Thrones;Juego de tronos (Spain);Game of Thrones (Chile)
+3;show;0388629;One Piece;One Piece (Spain) (Gallegan title);One Piece (Chile)
+3;show;6470478;The Good Doctor;The Good Doctor (Spain);ND
+4;movie;0111161;The Shawshank Redemption;Cadena perpetua (Spain);Sueños de Libertad (Chile)
+4;movie;0361748;Inglourious Basterds;Malditos bastardos (Spain);Bastardos sin gloria (Argentina)
+4;movie;0137523;Fight Club;El club de la lucha (Spain);El club de la pelea (Argentina)
+4;show;0386676;The Office;The Office (Spain);The Office (Argentina)
+4;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+4;show;5820976;El marginal;El marginal (Spain);ND
+5;movie;2119532;Hacksaw Ridge;Hasta el último hombre (Spain);Hasta el último hombre (Chile)
+5;movie;1489889;Central Intelligence;Un espía y medio (Spain);Un espía y medio (Chile)
+5;movie;7286456;Joker;Joker (Spain);Guasón (Chile)
+5;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+5;show;0386676;The Office;The Office (Spain);The Office (Argentina)
+5;show;3061046;Steven Universe;Steven Universe (Spain);ND
+6;movie;0393162;Coach Carter;Entrenador Carter (Spain);Juego de honor (Argentina) (video title)
+6;movie;0117705;Space Jam;Space Jam (Spain);Space Jam - El Juego del Siglo (Argentina)
+6;movie;2380307;Coco;Coco (Spain);Coco (Chile)
+6;show;0363328;Drake & Josh;Drake & Josh (Spain);ND
+6;show;3398228;BoJack Horseman;BoJack Horseman (Spain);ND
+6;show;0168366;Pokémon;Pokémon (Spain);Pokémon (Chile)
+7;movie;0068646;The Godfather;El padrino (Spain);El padrino (Chile)
+7;movie;0071562;The Godfather: Part II;El padrí II (Spain) (Catalan title);El padrino II (Chile)
+7;movie;0080684;Star Wars: Episode V - The Empire Strikes Back;Star Wars: Episodio V - El Imperio contraataca (Spain) (alternative title);El imperio contraataca (Chile)
+7;show;2861424;Rick and Morty;Rick y Morty (Spain);Rick y Morty (Argentina)
+7;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+7;show;1475582;Sherlock;Sherlock (Spain);ND
+8;movie;2584384;Jojo Rabbit;Jojo Rabbit (Spain);Jojo Rabbit (Chile)
+8;movie;1130884;Shutter Island;Shutter Island (Spain);La isla siniestra (Argentina)
+8;movie;0816692;Interstellar;Interstellar (Spain);Interestelar (Chile)
+8;show;6763664;The Haunting of Hill House;La maldición de Hill House (Spain);ND
+8;show;1475582;Sherlock;Sherlock (Spain);ND
+8;show;3398228;BoJack Horseman;BoJack Horseman (Spain);ND
+9;movie;0078788;Apocalypse Now;Apocalypse Now (Spain);Apocalipsis Now (Argentina)
+9;movie;1345836;The Dark Knight Rises;El caballero oscuro: La leyenda renace (Spain);Batman: El caballero de la noche asciende (Chile)
+9;movie;0477348;No Country for Old Men;No es país para viejos (Spain);Sin lugar para los débiles (Argentina)
+9;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+9;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+9;show;8289930;Formula 1: Drive to Survive;Fórmula 1: La emoción de un Grand Prix (Spain);Formula 1: Drive to Survive (Argentina)
+10;movie;0317219;Cars;Cars (Spain);Cars (Argentina)
+10;movie;0499549;Avatar;Avatar (Spain);Avatar (Argentina)
+10;movie;2872718;Nightcrawler;Nightcrawler (Spain);Primicia mortal (Chile)
+10;show;0455275;Prison Break;Prison Break (Spain);Prison Break (Argentina)
+10;show;0096697;The Simpsons;Los Simpson (Spain);Los Simpson (Argentina)
+10;show;1632701;Suits;Suits (Spain);La ley de los audaces (Argentina)
+11;movie;3460252;The Hateful Eight;Los odiosos ocho (Spain);Los 8 más odiados (Chile)
+11;movie;0103874;Bram Stoker's Dracula;Drácula de Bram Stoker (Spain);Drácula, de Bram Stoker (Argentina)
+11;movie;1188996;My Name Is Khan;Mi nombre es Khan (Spain);Mi nombre es Khan (Argentina)
+11;show;8111088;The Mandalorian;The Mandalorian (Spain);ND
+11;show;5180504;The Witcher;The Witcher (Spain);The Witcher (Argentina)
+11;show;0363328;Drake & Josh;Drake & Josh (Spain);ND
+12;movie;8946378;Knives Out;Puñales por la espalda (Spain);Entre navajas y secretos (Chile)
+12;movie;4154756;Avengers: Infinity War;Vengadores: La guerra del infinito - 1ª parte (Spain) (alternative title);Avengers: Infinity War (Chile)
+12;movie;1798684;Southpaw;Redención (Spain);Revancha (Chile)
+12;show;6470478;The Good Doctor;The Good Doctor (Spain);ND
+12;show;2442560;Peaky Blinders;Peaky Blinders (Spain);Peaky Blinders (Argentina)
+12;show;1190634;The Boys;The Boys (Spain);The Boys (Argentina)
+13;movie;0393162;Coach Carter;Entrenador Carter (Spain);Juego de honor (Argentina) (video title)
+13;movie;0117705;Space Jam;Space Jam (Spain);Space Jam - El Juego del Siglo (Argentina)
+13;movie;0105812;White Men Can't Jump;Los blancos no la saben meter (Spain);Los blancos no la saben meter (Argentina)
+13;show;4474344;Blindspot;Blindspot (Spain);ND
+13;show;1632701;Suits;Suits (Spain);La ley de los audaces (Argentina)
+13;show;4181172;Shooter;El tirador (Spain);El tirador (Argentina)
+14;movie;0137523;Fight Club;El club de la lucha (Spain);El club de la pelea (Argentina)
+14;movie;9495224;Black Mirror: Bandersnatch;Black Mirror: Bandersnatch (Spain);ND
+14;movie;0374900;Napoleon Dynamite;Napoleon Dynamite (Spain);Napoleon Dynamite - Un verano explosivo (Chile)
+14;show;2359704;JoJo's Bizarre Adventure;JoJo no kimyô-na bôken (Spain);JoJo's Bizarre Adventure (Argentina)
+14;show;9335498;Demon Slayer: Kimetsu No Yaiba;Demon Slayer: Kimetsu No Yaiba (Spain);ND
+14;show;9458304;Dororo;ND;ND
+15;movie;0468569;The Dark Knight;El caballero oscuro (Spain);Batman - El caballero de la noche (Argentina)
+15;movie;0109830;Forrest Gump;Forrest Gump (Spain);Forrest Gump (Argentina)
+15;movie;0111161;The Shawshank Redemption;Cadena perpetua (Spain);Sueños de Libertad (Chile)
+15;show;0460649;How I Met Your Mother;Cómo conocí a vuestra madre (Spain);ND
+15;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+15;show;2861424;Rick and Morty;Rick y Morty (Spain);Rick y Morty (Argentina)
+16;movie;6924650;Midway;Midway (Spain);Midway: Batalla en el Pacífico (Chile)
+16;movie;8579674;1917;1917 (Spain);1917 (Chile) (Spanish title)
+16;movie;2119532;Hacksaw Ridge;Hasta el último hombre (Spain);Hasta el último hombre (Chile)
+16;show;2861424;Rick and Morty;Rick y Morty (Spain);Rick y Morty (Argentina)
+16;show;1439629;Community;Community (Spain);Community (Argentina)
+16;show;2467372;Brooklyn Nine-Nine;Brooklyn Nine-Nine (Spain);ND
+17;movie;1727824;Bohemian Rhapsody;Bohemian Rhapsody (Spain);Bohemian Rhapsody, La historia de Freddie Mercury (Chile)
+17;movie;6751668;Parasite;Parásitos (Spain);Parasite (Chile) (Spanish title)
+17;movie;0454921;The Pursuit of Happyness;En busca de la felicidad (Spain);En busca de la felicidad (Argentina)
+17;show;1910272;Steins;Gate;Steins;Gate (Spain);ND
+17;show;1632701;Suits;Suits (Spain);La ley de los audaces (Argentina)
+17;show;0112159;Neon Genesis Evangelion;Neo genesis evangelión (Spain) (alternative title);Neon Genesis Evangelion (Chile)
+18;movie;0816692;Interstellar;Interstellar (Spain);Interestelar (Chile)
+18;movie;4154756;Avengers: Infinity War;Vengadores: La guerra del infinito - 1ª parte (Spain) (alternative title);Avengers: Infinity War (Chile)
+18;movie;0289879;The Butterfly Effect;El efecto mariposa (Spain);El efecto mariposa (Argentina)
+18;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+18;show;0460649;How I Met Your Mother;Cómo conocí a vuestra madre (Spain);ND
+18;show;0944947;Game of Thrones;Juego de tronos (Spain);Game of Thrones (Chile)
+19;movie;0088763;Back to the Future;Retorn al futur (Spain) (Catalan title);Volver al futuro (Chile)
+19;movie;0133093;The Matrix;Matrix (Spain);Matrix (Argentina)
+19;movie;6751668;Parasite;Parásitos (Spain);Parasite (Chile) (Spanish title)
+19;show;0412142;House;House (Spain);Dr. House (Chile)
+19;show;1355642;Fullmetal Alchemist: Brotherhood;Fullmetal Alchemist: Brotherhood (Spain);ND
+19;show;7366338;Chernobyl;Chernobyl (Spain);Chernobyl (Argentina)
+20;movie;0325980;Pirates of the Caribbean: The Curse of the Black Pearl;Piratas del Caribe: La maldición de la Perla Negra (Spain);La maldición del Perla Negra (Argentina)
+20;movie;1201607;Harry Potter and the Deathly Hallows: Part 2;Harry Potter y las Reliquias de la Muerte - Parte 2 (Spain);Harry Potter y las Reliquias de la Muerte: Parte 2 (Chile)
+20;movie;0316654;Spider-Man 2;Spider-Man 2 (Spain);El hombre araña 2 (Argentina)
+20;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+20;show;0388629;One Piece;One Piece (Spain) (Gallegan title);One Piece (Chile)
+20;show;0988824;Naruto: Shippûden;Naruto: Shippûden (Spain);Naruto Shippuden (Chile)
+21;movie;4154796;Avengers: Endgame;Vengadores: Endgame (Spain);Avengers: Endgame (Chile)
+21;movie;0107290;Jurassic Park;Parc Juràssic (Spain) (Catalan title);Jurassic Park (Argentina)
+21;movie;1392170;The Hunger Games;Los juegos del hambre (Spain);Los juegos del hambre (Chile)
+21;show;2661044;The 100;Los 100 (Spain);ND
+21;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+21;show;7134908;Elite;Élite (Spain);ND
+22;movie;1130884;Shutter Island;Shutter Island (Spain);La isla siniestra (Argentina)
+22;movie;2543472;Wonder;Wonder (Spain);Extraordinario (Chile)
+22;movie;1457767;The Conjuring;Expediente Warren: The Conjuring (Spain);El conjuro (Chile)
+22;show;6468322;Money Heist;La Casa de Papel: Parte 3 (Spain) (third season title);ND
+22;show;3825328;Bajo sospecha;Sin pruebas (Spain) (working title);ND
+22;show;9138156;The Pack;La jauría (Spain);La Jauría (Argentina)
+23;movie;1683526;Detachment;El profesor (Detachment) (Spain);ND
+23;movie;0335266;Lost in Translation;Lost in Translation (Spain);Perdidos en Tokio (Argentina)
+23;movie;0085407;The Dead Zone;La zona muerta (Spain);La zona muerta (Argentina)
+23;show;0773262;Dexter;Dexter (Spain);Dexter (Argentina)
+23;show;0212671;Malcolm in the Middle;Malcolm (Spain);Malcolm (Argentina)
+23;show;0386676;The Office;The Office (Spain);The Office (Argentina)
+24;movie;0414387;Pride & Prejudice;Pride & Prejudice (Orgullo y prejuicio) (Spain);Orgullo y prejuicio (Argentina)
+24;movie;8613070;Portrait of a Lady on Fire;Retrato de una mujer en llamas (Spain);Retrato de una chica en llamas (Argentina)
+24;movie;4154664;Captain Marvel;Capitana Marvel (Spain);Capitana Marvel (Chile)
+24;show;8772296;Euphoria;Euphoria (Spain);ND
+24;show;0417299;Avatar: The Last Airbender;Avatar: el último maestro aire (Spain) (alternative spelling);ND
+24;show;7745956;She-Ra and the Princesses of Power;She-Ra y las princesas del poder (Spain);She-Ra y las princesas del poder (Argentina)
+25;movie;1375666;Inception;Origen (Spain);El origen (Chile)
+25;movie;3104988;Crazy Rich Asians;Crazy Rich Asians (Spain);Locamente Millonarios (Chile)
+25;movie;1707386;Les Misérables;Los miserables (Spain);Los miserables (Chile)
+25;show;2741602;The Blacklist;The Blacklist (Spain);The Blacklist (Argentina)
+25;show;0460627;Bones;Bones (Spain);ND
+25;show;6468322;Money Heist;La Casa de Papel: Parte 3 (Spain) (third season title);ND
+26;movie;0328880;Brother Bear;Hermano oso (Spain);Tierra de osos (Chile)
+26;movie;7286456;Joker;Joker (Spain);Guasón (Chile)
+26;movie;0109830;Forrest Gump;Forrest Gump (Spain);Forrest Gump (Argentina)
+26;show;0235918;The Fairly OddParents;Los padrinos mágicos (Spain);Los padrinos mágicos (Chile)
+26;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+26;show;0460649;How I Met Your Mother;Cómo conocí a vuestra madre (Spain);ND
+27;movie;2543472;Wonder;Wonder (Spain);Extraordinario (Chile)
+27;movie;4857264;The Invisible Guest;El invitado invisible (Spain) (working title);Contratiempo (Argentina)
+27;movie;1564367;Just Go with It;Sígueme el rollo (Spain);Una esposa de mentira (Argentina)
+27;show;2661044;The 100;Los 100 (Spain);ND
+27;show;1632701;Suits;Suits (Spain);La ley de los audaces (Argentina)
+27;show;8772296;Euphoria;Euphoria (Spain);ND
+28;movie;0816692;Interstellar;Interstellar (Spain);Interestelar (Chile)
+28;movie;1375666;Inception;Origen (Spain);El origen (Chile)
+28;movie;3659388;The Martian;Marte (Spain);Misión Rescate (Chile)
+28;show;0460649;How I Met Your Mother;Cómo conocí a vuestra madre (Spain);ND
+28;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+28;show;2467372;Brooklyn Nine-Nine;Brooklyn Nine-Nine (Spain);ND
+29;movie;0816692;Interstellar;Interstellar (Spain);Interestelar (Chile)
+29;movie;1605630;American Reunion;American Pie: El reencuentro (Spain);American Pie: El reencuentro (Chile)
+29;movie;1790864;The Maze Runner;El corredor del laberinto (Spain);Maze Runner: Correr o morir (Chile)
+29;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+29;show;0460649;How I Met Your Mother;Cómo conocí a vuestra madre (Spain);ND
+29;show;0898266;The Big Bang Theory;Big Bang (Spain);La teoría del Big Bang (Argentina)
+30;movie;2802144;Kingsman: The Secret Service;Kingsman: Servicio secreto (Spain);Kingsman: El servicio secreto (Chile)
+30;movie;6320628;Spider-Man: Far from Home;Spider-Man: Lejos de casa (Spain);Spider-Man: Lejos de Casa (Chile)
+30;movie;2267968;Kung Fu Panda 3;Kung Fu Panda 3 (Spain);Kung Fu Panda 3 (Chile)
+30;show;4052886;Lucifer;Lucifer (Spain);ND
+30;show;0460649;How I Met Your Mother;Cómo conocí a vuestra madre (Spain);ND
+30;show;0165598;That '70s Show;Aquellos maravillosos 70 (Spain);That '70s Show (Argentina)
+31;movie;2381941;Focus;Focus (Spain);Focus: Maestros de la Estafa (Chile)
+31;movie;0068646;The Godfather;El padrino (Spain);El padrino (Chile)
+31;movie;0033467;Citizen Kane;Ciutadà Kane (Spain) (Catalan title);Ciudadano Kane (Chile)
+31;show;0455275;Prison Break;Prison Break (Spain);Prison Break (Argentina)
+31;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+31;show;2306299;Vikings;Vikingos (Spain);Vikingos (Argentina)
+32;movie;1677720;Ready Player One;Ready Player One (Spain);Ready Player One: Comienza el Juego (Chile)
+32;movie;5606664;Doctor Sleep;Doctor Sueño (Spain);Doctor Sueño (Chile)
+32;movie;7286456;Joker;Joker (Spain);Guasón (Chile)
+32;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+32;show;2372162;Orange Is the New Black;Orange Is the New Black (Spain);ND
+32;show;2442560;Peaky Blinders;Peaky Blinders (Spain);Peaky Blinders (Argentina)
+33;movie;1001526;Megamind;Megamind (Spain);Megamente (Argentina)
+33;movie;8579674;1917;1917 (Spain);1917 (Chile) (Spanish title)
+33;movie;2119532;Hacksaw Ridge;Hasta el último hombre (Spain);Hasta el último hombre (Chile)
+33;show;2379308;Psycho-Pass;ND;ND
+33;show;4158110;Mr. Robot;Mr. Robot (Spain);ND
+33;show;1439629;Community;Community (Spain);Community (Argentina)
+34;movie;8228288;The Platform;La plataforma (Spain) (working title);ND
+34;movie;3901826;The Breadwinner;El pan de la guerra (Spain);ND
+34;movie;4729430;Klaus;Klaus (Spain);Klaus (Argentina)
+34;show;0386676;The Office;The Office (Spain);The Office (Argentina)
+34;show;3398228;BoJack Horseman;BoJack Horseman (Spain);ND
+34;show;2707408;Narcos;Narcos (Spain);ND
+35;movie;4633694;Spider-Man: Into the Spider-Verse;Spider-Man: Un nuevo universo (Spain);Spider-Man: Un Nuevo Universo (Chile)
+35;movie;2584384;Jojo Rabbit;Jojo Rabbit (Spain);Jojo Rabbit (Chile)
+35;movie;0110912;Pulp Fiction;Pulp Fiction (Spain);Pulp Fiction: Tiempos violentos (Chile)
+35;show;0460649;How I Met Your Mother;Cómo conocí a vuestra madre (Spain);ND
+35;show;0412142;House;House (Spain);Dr. House (Chile)
+35;show;4052886;Lucifer;Lucifer (Spain);ND
+36;movie;2584384;Jojo Rabbit;Jojo Rabbit (Spain);Jojo Rabbit (Chile)
+36;movie;1979320;Rush;Rush (Spain);Rush: pasión y gloria (Argentina)
+36;movie;0093779;The Princess Bride;La princesa prometida (Spain);La princesa prometida (Argentina)
+36;show;1190634;The Boys;The Boys (Spain);The Boys (Argentina)
+36;show;1475582;Sherlock;Sherlock (Spain);ND
+36;show;5712554;The Grand Tour;The Grand Tour (Spain);ND
+37;movie;10515852;Steven Universe: The Movie;Steven Universe: La película (Spain);Steven Universe: La película (Chile)
+37;movie;0398286;Tangled;Enredados (Spain);Enredados (Chile)
+37;movie;1049413;Up;Up (Spain);Up - Una aventura de altura (Argentina)
+37;show;4580372;Merlí;Merlí (Spain) (Catalan title);ND
+37;show;3742982;Akame ga Kill!;ND;Agame ga Kill! (Argentina)
+37;show;8788458;The Promised Neverland;The Promised Neverland (Spain);ND
+38;movie;1649419;The Impossible;Lo imposible (Spain);Lo imposible (Argentina)
+38;movie;6751668;Parasite;Parásitos (Spain);Parasite (Chile) (Spanish title)
+38;movie;2380307;Coco;Coco (Spain);Coco (Chile)
+38;show;7134908;Elite;Élite (Spain);ND
+38;show;6468322;Money Heist;La Casa de Papel: Parte 3 (Spain) (third season title);ND
+38;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+39;movie;3501632;Thor: Ragnarok;Thor: Ragnarok (Spain);Thor: Ragnarok (Chile)
+39;movie;4154796;Avengers: Endgame;Vengadores: Endgame (Spain);Avengers: Endgame (Chile)
+39;movie;0080684;Star Wars: Episode V - The Empire Strikes Back;Star Wars: Episodio V - El Imperio contraataca (Spain) (alternative title);El imperio contraataca (Chile)
+39;show;4179452;The Last Kingdom;The Last Kingdom (Spain);The Last Kingdom (Argentina)
+39;show;1632701;Suits;Suits (Spain);La ley de los audaces (Argentina)
+39;show;0460649;How I Met Your Mother;Cómo conocí a vuestra madre (Spain);ND
+40;movie;2428170;Creep;ND;ND
+40;movie;3783958;La La Land;La ciudad de las estrellas (La La Land) (Spain);La La Land: Ciudad de Sueños (Chile)
+40;movie;0087544;Nausicaä of the Valley of the Wind;Guerreros del viento (Spain) (cut version);Nausicaä del Valle del Viento (Chile)
+40;show;0112159;Neon Genesis Evangelion;Neo genesis evangelión (Spain) (alternative title);Neon Genesis Evangelion (Chile)
+40;show;0417299;Avatar: The Last Airbender;Avatar: el último maestro aire (Spain) (alternative spelling);ND
+40;show;9561862;Love, Death & Robots;Love, Death & Robots (Spain);Love, Death & Robots (Argentina)
+41;movie;1375666;Inception;Origen (Spain);El origen (Chile)
+41;movie;0816692;Interstellar;Interstellar (Spain);Interestelar (Chile)
+41;movie;0119217;Good Will Hunting;El indomable Will Hunting (Spain);En busca del destino (Argentina)
+41;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+41;show;0944947;Game of Thrones;Juego de tronos (Spain);Game of Thrones (Chile)
+41;show;0455275;Prison Break;Prison Break (Spain);Prison Break (Argentina)
+42;movie;0361748;Inglourious Basterds;Malditos bastardos (Spain);Bastardos sin gloria (Argentina)
+42;movie;1375666;Inception;Origen (Spain);El origen (Chile)
+42;movie;1130884;Shutter Island;Shutter Island (Spain);La isla siniestra (Argentina)
+42;show;3032476;Better Call Saul;Better Call Saul (Spain);Better Call Saul (Argentina)
+42;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+42;show;0944947;Game of Thrones;Juego de tronos (Spain);Game of Thrones (Chile)
+43;movie;0332280;The Notebook;El diario de Noa (Spain);Diario de una pasión (Chile)
+43;movie;2386490;How to Train Your Dragon: The Hidden World;Cómo entrenar a tu dragón 3 (Spain);Cómo entrenar a tu dragón 3 (Chile)
+43;movie;4154756;Avengers: Infinity War;Vengadores: La guerra del infinito - 1ª parte (Spain) (alternative title);Avengers: Infinity War (Chile)
+43;show;0944947;Game of Thrones;Juego de tronos (Spain);Game of Thrones (Chile)
+43;show;2805096;Chicago P.D.;Chicago P.D. (Spain);ND
+43;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+44;movie;2381941;Focus;Focus (Spain);Focus: Maestros de la Estafa (Chile)
+44;movie;8350360;Annabelle Comes Home;Annabelle vuelve a casa (Spain);Annabelle 3: viene a casa (Chile)
+44;movie;0816692;Interstellar;Interstellar (Spain);Interestelar (Chile)
+44;show;2306299;Vikings;Vikingos (Spain);Vikingos (Argentina)
+44;show;2442560;Peaky Blinders;Peaky Blinders (Spain);Peaky Blinders (Argentina)
+44;show;2098220;Hunter x Hunter;Hunter x Hunter (Spain);ND
+45;movie;3748528;Rogue One: A Star Wars Story;Rogue One: Una historia de Star Wars (Spain);Rogue One: Una historia de Star Wars (Chile)
+45;movie;6751668;Parasite;Parásitos (Spain);Parasite (Chile) (Spanish title)
+45;movie;2802144;Kingsman: The Secret Service;Kingsman: Servicio secreto (Spain);Kingsman: El servicio secreto (Chile)
+45;show;10850932;Crash Landing on You;Crash Landing on You (Spain);Aterrizaje de emergencia en tu corazón (Argentina)
+45;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+45;show;8111088;The Mandalorian;The Mandalorian (Spain);ND
+46;movie;0993846;The Wolf of Wall Street;El lobo de Wall Street (Spain);El lobo de Wall Street (Chile)
+46;movie;1431045;Deadpool;Deadpool (Spain);Deadpool (Chile)
+46;movie;5463162;Deadpool 2;Deadpool 2 (Spain);Deadpool 2 (Chile)
+46;show;1355642;Fullmetal Alchemist: Brotherhood;Fullmetal Alchemist: Brotherhood (Spain);ND
+46;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+46;show;3398228;BoJack Horseman;BoJack Horseman (Spain);ND
+47;movie;0109830;Forrest Gump;Forrest Gump (Spain);Forrest Gump (Argentina)
+47;movie;0478087;21;21: Black Jack (Spain);21 Blackjack (Argentina)
+47;movie;0268978;A Beautiful Mind;Una mente maravillosa (Spain);Una mente brillante (Argentina)
+47;show;0397442;Gossip Girl;Gossip Girl (Spain);Gossip Girl: Chica Indiscreta (Argentina)
+47;show;0840196;Skins;Skins (Spain);ND
+47;show;8772296;Euphoria;Euphoria (Spain);ND
+48;movie;3281548;Little Women;Mujercitas (Spain);Mujercitas (Chile)
+48;movie;0087277;Footloose;Footloose (Spain);Footloose (Chile)
+48;movie;3501632;Thor: Ragnarok;Thor: Ragnarok (Spain);Thor: Ragnarok (Chile)
+48;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+48;show;0898266;The Big Bang Theory;Big Bang (Spain);La teoría del Big Bang (Argentina)
+48;show;8543390;Modern Love;Modern Love (Spain);ND
+49;movie;0109830;Forrest Gump;Forrest Gump (Spain);Forrest Gump (Argentina)
+49;movie;1596343;Fast Five;Fast & Furious 5 (Spain);Rápidos y Furiosos: 5in control (Argentina)
+49;movie;2379713;Spectre;Spectre (Spain);Spectre (Chile)
+49;show;0096697;The Simpsons;Los Simpson (Spain);Los Simpson (Argentina)
+49;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+49;show;0898266;The Big Bang Theory;Big Bang (Spain);La teoría del Big Bang (Argentina)
+50;movie;0118715;The Big Lebowski;El gran Lebowski (Spain);El gran Lebowski (Argentina)
+50;movie;5013056;Dunkirk;Dunkerque (Spain);Dunkerque (Chile)
+50;movie;0110912;Pulp Fiction;Pulp Fiction (Spain);Pulp Fiction: Tiempos violentos (Chile)
+50;show;7366338;Chernobyl;Chernobyl (Spain);Chernobyl (Argentina)
+50;show;3398228;BoJack Horseman;BoJack Horseman (Spain);ND
+50;show;5180504;The Witcher;The Witcher (Spain);The Witcher (Argentina)
+51;movie;1375666;Inception;Origen (Spain);El origen (Chile)
+51;movie;1130884;Shutter Island;Shutter Island (Spain);La isla siniestra (Argentina)
+51;movie;0120783;The Parent Trap;Tú a Londres y yo a California (Spain);Juego de gemelas (Argentina)
+51;show;0455275;Prison Break;Prison Break (Spain);Prison Break (Argentina)
+51;show;0397442;Gossip Girl;Gossip Girl (Spain);Gossip Girl: Chica Indiscreta (Argentina)
+51;show;4524056;Vis a vis;Vis a vis (Spain);ND
+52;movie;0816692;Interstellar;Interstellar (Spain);Interestelar (Chile)
+52;movie;1049413;Up;Up (Spain);Up - Una aventura de altura (Argentina)
+52;movie;0361748;Inglourious Basterds;Malditos bastardos (Spain);Bastardos sin gloria (Argentina)
+52;show;6468322;Money Heist;La Casa de Papel: Parte 3 (Spain) (third season title);ND
+52;show;0944947;Game of Thrones;Juego de tronos (Spain);Game of Thrones (Chile)
+52;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+53;movie;0114814;The Usual Suspects;Sospitosos habituals (Spain) (Catalan title);Los sospechosos de siempre (Argentina)
+53;movie;0110912;Pulp Fiction;Pulp Fiction (Spain);Pulp Fiction: Tiempos violentos (Chile)
+53;movie;0081505;The Shining;La resplendor (Spain) (Catalan title);El resplandor (Chile)
+53;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+53;show;0386676;The Office;The Office (Spain);The Office (Argentina)
+53;show;0367279;Arrested Development;Arrested Development (Spain);Sacrificios De Familia (Chile) (dubbed version)
+54;movie;0118799;Life Is Beautiful;La vida es bella (Spain);La vida es bella (Argentina)
+54;movie;0058331;Mary Poppins;Mary Poppins (Spain);Mary Poppins (Argentina)
+54;movie;0120363;Toy Story 2;Toy Story 2: Los juguetes vuelven a la carga (Spain) (alternative title);Toy Story 2 (Argentina)
+54;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+54;show;4474344;Blindspot;Blindspot (Spain);ND
+54;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+55;movie;1485796;The Greatest Showman;El gran showman (Spain);El Gran Showman (Chile)
+55;movie;2543472;Wonder;Wonder (Spain);Extraordinario (Chile)
+55;movie;2872518;The Shack;La cabaña (Spain);La Cabaña (Chile)
+55;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+55;show;2234222;Orphan Black;Orphan Black (Spain);ND
+55;show;1632701;Suits;Suits (Spain);La ley de los audaces (Argentina)
+56;movie;0816692;Interstellar;Interstellar (Spain);Interestelar (Chile)
+56;movie;4154796;Avengers: Endgame;Vengadores: Endgame (Spain);Avengers: Endgame (Chile)
+56;movie;3659388;The Martian;Marte (Spain);Misión Rescate (Chile)
+56;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+56;show;0460649;How I Met Your Mother;Cómo conocí a vuestra madre (Spain);ND
+56;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+57;movie;0119217;Good Will Hunting;El indomable Will Hunting (Spain);En busca del destino (Argentina)
+57;movie;3659388;The Martian;Marte (Spain);Misión Rescate (Chile)
+57;movie;2084970;The Imitation Game;The Imitation Game (Descifrando Enigma) (Spain);El código enigma (Chile)
+57;show;8772296;Euphoria;Euphoria (Spain);ND
+57;show;7366338;Chernobyl;Chernobyl (Spain);Chernobyl (Argentina)
+57;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+62;movie;0381707;White Chicks;Dos rubias de pelo en pecho (Spain);Donde están las rubias? (Chile)
+62;movie;6751668;Parasite;Parásitos (Spain);Parasite (Chile) (Spanish title)
+62;movie;4857264;The Invisible Guest;El invitado invisible (Spain) (working title);Contratiempo (Argentina)
+62;show;1442437;Modern Family;Modern Family (Spain);ND
+62;show;3205802;How to Get Away with Murder;Cómo defender a un asesino (Spain);ND
+62;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+63;movie;4857264;The Invisible Guest;El invitado invisible (Spain) (working title);Contratiempo (Argentina)
+63;movie;0114369;Se7en;Seven (Spain);Pecados capitales (Argentina)
+63;movie;1638002;Love, Rosie;Los imprevistos del amor (Spain);Los imprevistos del amor (Chile)
+63;show;2085059;Black Mirror;Black Mirror (Spain);ND
+63;show;6656238;The Rain;The Rain (Spain);The Rain (Argentina)
+63;show;5674718;Cable Girls;Las chicas del cable (Spain);ND
+64;movie;4154796;Avengers: Endgame;Vengadores: Endgame (Spain);Avengers: Endgame (Chile)
+64;movie;0266543;Finding Nemo;Buscando a Nemo (Spain);Buscando a Nemo (Chile)
+64;movie;1587310;Maleficent;Maléfica (Spain);Maléfica (Chile)
+64;show;1475582;Sherlock;Sherlock (Spain);ND
+64;show;4524056;Vis a vis;Vis a vis (Spain);ND
+64;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+65;movie;7233640;Mission: Imposible - Rogue Nation;ND;ND
+65;movie;0241527;Harry Potter and the Sorcerer's Stone;Harry Potter y la piedra filosofal (Spain);Harry Potter y la Piedra Filosofal (Chile)
+65;movie;0264464;Catch Me If You Can;Atrápame si puedes (Spain);Atrápame si puedes (Argentina)
+65;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+65;show;0452046;Criminal Minds;Mentes criminales (Spain);ND
+65;show;1632701;Suits;Suits (Spain);La ley de los audaces (Argentina)
+66;movie;0114369;Se7en;Seven (Spain);Pecados capitales (Argentina)
+66;movie;1707386;Les Misérables;Los miserables (Spain);Los miserables (Chile)
+66;movie;4154756;Avengers: Infinity War;Vengadores: La guerra del infinito - 1ª parte (Spain) (alternative title);Avengers: Infinity War (Chile)
+66;show;1190634;The Boys;The Boys (Spain);The Boys (Argentina)
+66;show;6315640;Atypical;Atípico (Spain);ND
+66;show;0386676;The Office;The Office (Spain);The Office (Argentina)
+67;movie;5726616;Call Me by Your Name;Call Me by Your Name (Spain);Llámame por tu nombre (Chile)
+67;movie;0120338;Titanic;Titanic (Spain);Titanic (Argentina)
+67;movie;2584384;Jojo Rabbit;Jojo Rabbit (Spain);Jojo Rabbit (Chile)
+67;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+67;show;4580372;Merlí;Merlí (Spain) (Catalan title);ND
+67;show;2431438;Sense8;Sense8 (Spain);Sense8 (Argentina)
+68;movie;0816692;Interstellar;Interstellar (Spain);Interestelar (Chile)
+68;movie;1375666;Inception;Origen (Spain);El origen (Chile)
+68;movie;0121766;Star Wars: Episode III - Revenge of the Sith;Star Wars: Episodio III - La venganza de los Sith (Spain);Star Wars: Episodio III - La venganza de los Sith (Argentina)
+68;show;8111088;The Mandalorian;The Mandalorian (Spain);ND
+68;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+68;show;2442560;Peaky Blinders;Peaky Blinders (Spain);Peaky Blinders (Argentina)
+69;movie;0298148;Shrek 2;Shrek 2 (Spain);Shrek 2 (Argentina)
+69;movie;0458352;The Devil Wears Prada;El diablo viste de Prada (Spain);El Diablo Viste a la Moda (Chile)
+69;movie;4154796;Avengers: Endgame;Vengadores: Endgame (Spain);Avengers: Endgame (Chile)
+69;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+69;show;5674718;Cable Girls;Las chicas del cable (Spain);ND
+69;show;3749900;Gotham;Gotham (Spain);Gotham (Argentina)
+70;movie;0317219;Cars;Cars (Spain);Cars (Argentina)
+70;movie;1649419;The Impossible;Lo imposible (Spain);Lo imposible (Argentina)
+70;movie;1396484;It;It (Spain);It (Eso) (Chile)
+70;show;8289930;Formula 1: Drive to Survive;Fórmula 1: La emoción de un Grand Prix (Spain);Formula 1: Drive to Survive (Argentina)
+70;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+70;show;5421602;Anne with an E;Anne with an E (Spain);Anne with an E (Argentina)
+71;movie;0245429;Spirited Away;Chihiroren bidaia (Spain) (Basque title);El viaje de Chihiro (Chile)
+71;movie;1028532;Hachi: A Dog's Tale;Siempre a tu lado (Spain) (alternative title);Siempre a tu lado (Chile)
+71;movie;1216475;Cars 2;Cars 2 (Spain);Cars 2 (Argentina)
+71;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+71;show;2306299;Vikings;Vikingos (Spain);Vikingos (Argentina)
+71;show;5180504;The Witcher;The Witcher (Spain);The Witcher (Argentina)
+72;movie;0298148;Shrek 2;Shrek 2 (Spain);Shrek 2 (Argentina)
+72;movie;1130884;Shutter Island;Shutter Island (Spain);La isla siniestra (Argentina)
+72;movie;0816692;Interstellar;Interstellar (Spain);Interestelar (Chile)
+72;show;2442560;Peaky Blinders;Peaky Blinders (Spain);Peaky Blinders (Argentina)
+72;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+72;show;7767422;Sex Education;Sex Education (Spain);Sex Education (Argentina)
+73;movie;2024469;Non-Stop;Non-Stop (Sin escalas) (Spain);Non-Stop: Sin escalas (Chile)
+73;movie;3882082;The Boy;The Boy (Spain);El niño (Chile)
+73;movie;6320628;Spider-Man: Far from Home;Spider-Man: Lejos de casa (Spain);Spider-Man: Lejos de Casa (Chile)
+73;show;1173427;Total Drama;Un drama total d'illa (Spain) (Catalan title);ND
+73;show;2560140;Attack on Titan;Ataque a los titanes (Spain);ND
+73;show;10327830;For Life;For Life: Cadena perpetua (Spain);ND
+74;movie;0119217;Good Will Hunting;El indomable Will Hunting (Spain);En busca del destino (Argentina)
+74;movie;0109830;Forrest Gump;Forrest Gump (Spain);Forrest Gump (Argentina)
+74;movie;0787524;The Man Who Knew Infinity;El hombre que conocía el infinito (Spain);El hombre que conocía el infinito (Argentina)
+74;show;3609352;Grace and Frankie;Grace and Frankie (Spain);Grace and Frankie (Argentina)
+74;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+74;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+75;movie;2379713;Spectre;Spectre (Spain);Spectre (Chile)
+75;movie;0816692;Interstellar;Interstellar (Spain);Interestelar (Chile)
+75;movie;8946378;Knives Out;Puñales por la espalda (Spain);Entre navajas y secretos (Chile)
+75;show;6468322;Money Heist;La Casa de Papel: Parte 3 (Spain) (third season title);ND
+75;show;0460649;How I Met Your Mother;Cómo conocí a vuestra madre (Spain);ND
+75;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+76;movie;0816692;Interstellar;Interstellar (Spain);Interestelar (Chile)
+76;movie;3783958;La La Land;La ciudad de las estrellas (La La Land) (Spain);La La Land: Ciudad de Sueños (Chile)
+76;movie;5311514;Your Name.;Your Name. (Spain);Your Name. (Chile)
+76;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+76;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+76;show;2560140;Attack on Titan;Ataque a los titanes (Spain);ND
+77;movie;1201607;Harry Potter and the Deathly Hallows: Part 2;Harry Potter y las Reliquias de la Muerte - Parte 2 (Spain);Harry Potter y las Reliquias de la Muerte: Parte 2 (Chile)
+77;movie;2293640;Minions;Los minions (Spain);Minions (Chile)
+77;movie;0332280;The Notebook;El diario de Noa (Spain);Diario de una pasión (Chile)
+77;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+77;show;0096697;The Simpsons;Los Simpson (Spain);Los Simpson (Argentina)
+77;show;1475582;Sherlock;Sherlock (Spain);ND
+78;movie;1853728;Django Unchained;Django desencadenado (Spain);Django sin cadenas (Chile)
+78;movie;6751668;Parasite;Parásitos (Spain);Parasite (Chile) (Spanish title)
+78;movie;0468569;The Dark Knight;El caballero oscuro (Spain);Batman - El caballero de la noche (Argentina)
+78;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+78;show;0386676;The Office;The Office (Spain);The Office (Argentina)
+78;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+79;movie;4857264;The Invisible Guest;El invitado invisible (Spain) (working title);Contratiempo (Argentina)
+79;movie;0277027;I Am Sam;Yo soy Sam (Spain);Mi nombre es Sam (Argentina)
+79;movie;2674426;Me Before You;Antes de ti (Spain);Yo antes de ti (Chile)
+79;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+79;show;4524056;Vis a vis;Vis a vis (Spain);ND
+79;show;10293938;Outer Banks;Outer Banks (Spain);Outer Banks (Argentina)
+80;movie;0111161;The Shawshank Redemption;Cadena perpetua (Spain);Sueños de Libertad (Chile)
+80;movie;1028532;Hachi: A Dog's Tale;Siempre a tu lado (Spain) (alternative title);Siempre a tu lado (Chile)
+80;movie;0109830;Forrest Gump;Forrest Gump (Spain);Forrest Gump (Argentina)
+80;show;0455275;Prison Break;Prison Break (Spain);Prison Break (Argentina)
+80;show;4925000;Descendants of the Sun;ND;Descendientes del sol (Argentina) (alternative spelling)
+80;show;10381924;Remembering Lichuan;ND;ND
+81;movie;0383216;The Pink Panther;La pantera rosa (Spain);La pantera rosa (Argentina)
+81;movie;0369610;Jurassic World;Jurassic World (Spain);Jurassic World: Mundo Jurásico (Chile)
+81;movie;0349205;Cheaper by the Dozen;Doce en casa (Spain);Más barato por docena (Argentina)
+81;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+81;show;6468322;Money Heist;La Casa de Papel: Parte 3 (Spain) (third season title);ND
+81;show;0233127;Yo soy Betty, la fea;Yo soy Betty, la fea (Spain);Betty, la fea (Argentina) (short title)
+82;movie;0091251;Come and See;Ven y mira (Masacre) (Spain);Masacre: Ven y mira (Chile)
+82;movie;0364569;Oldboy;Old Boy (Spain);Old Boy (Chile)
+82;movie;0080684;Star Wars: Episode V - The Empire Strikes Back;Star Wars: Episodio V - El Imperio contraataca (Spain) (alternative title);El imperio contraataca (Chile)
+82;show;0412142;House;House (Spain);Dr. House (Chile)
+82;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+82;show;2356777;True Detective;True Detective (Spain);ND
+83;movie;0936501;Taken;Venganza (Spain);Búsqueda implacable (Argentina)
+83;movie;4154796;Avengers: Endgame;Vengadores: Endgame (Spain);Avengers: Endgame (Chile)
+83;movie;7286456;Joker;Joker (Spain);Guasón (Chile)
+83;show;2707408;Narcos;Narcos (Spain);ND
+83;show;2261227;Altered Carbon;Altered Carbon (Spain);Altered Carbon (Argentina)
+83;show;2560140;Attack on Titan;Ataque a los titanes (Spain);ND
+84;movie;0169858;Neon Genesis Evangelion: The End of Evangelion;Neon Genesis Evangelion: The End of Evangelion (Spain);ND
+84;movie;0435761;Toy Story 3;Toy Story 3 (Spain);Toy Story 3 (Argentina)
+84;movie;0910936;Pineapple Express;Superfumados (Spain);PiñaExpress (Chile)
+84;show;1910272;Steins;Gate;Steins;Gate (Spain);ND
+84;show;0121955;South Park;South Park (Spain);South Park (Argentina)
+84;show;3741634;Tokyo Ghoul;Tokyo Ghoul (Spain);ND
+85;movie;0298148;Shrek 2;Shrek 2 (Spain);Shrek 2 (Argentina)
+85;movie;0478087;21;21: Black Jack (Spain);21 Blackjack (Argentina)
+85;movie;1232829;21 Jump Street;Infiltrados en clase (Spain);Comando especial (Chile)
+85;show;0455275;Prison Break;Prison Break (Spain);Prison Break (Argentina)
+85;show;1439629;Community;Community (Spain);Community (Argentina)
+85;show;2861424;Rick and Morty;Rick y Morty (Spain);Rick y Morty (Argentina)
+86;movie;4154796;Avengers: Endgame;Vengadores: Endgame (Spain);Avengers: Endgame (Chile)
+86;movie;1911644;The Call;La última llamada (Spain);911: Llamada mortal (Chile)
+86;show;5421602;Anne with an E;Anne with an E (Spain);Anne with an E (Argentina)
+86;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+86;show;0452046;Criminal Minds;Mentes criminales (Spain);ND
+87;movie;0086250;Scarface;El precio del poder (Spain);Caracortada (Chile)
+87;movie;0062622;2001: A Space Odyssey;2001: Una odisea del espacio (Spain);2001: Odisea del espacio (Argentina)
+87;movie;0109830;Forrest Gump;Forrest Gump (Spain);Forrest Gump (Argentina)
+87;show;0944947;Game of Thrones;Juego de tronos (Spain);Game of Thrones (Chile)
+87;show;2861424;Rick and Morty;Rick y Morty (Spain);Rick y Morty (Argentina)
+87;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+88;movie;0441773;Kung Fu Panda;Kung Fu Panda (Spain);Kung Fu Panda (Argentina)
+88;movie;0317705;The Incredibles;Los Increíbles (Spain);Los increíbles (Chile)
+88;movie;6320628;Spider-Man: Far from Home;Spider-Man: Lejos de casa (Spain);Spider-Man: Lejos de Casa (Chile)
+88;show;0455275;Prison Break;Prison Break (Spain);Prison Break (Argentina)
+88;show;0944947;Game of Thrones;Juego de tronos (Spain);Game of Thrones (Chile)
+88;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+89;movie;4154796;Avengers: Endgame;Vengadores: Endgame (Spain);Avengers: Endgame (Chile)
+89;movie;0119217;Good Will Hunting;El indomable Will Hunting (Spain);En busca del destino (Argentina)
+89;movie;1201607;Harry Potter and the Deathly Hallows: Part 2;Harry Potter y las Reliquias de la Muerte - Parte 2 (Spain);Harry Potter y las Reliquias de la Muerte: Parte 2 (Chile)
+89;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+89;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+89;show;0417299;Avatar: The Last Airbender;Avatar: el último maestro aire (Spain) (alternative spelling);ND
+90;movie;0892769;How to Train Your Dragon;Cómo entrenar a tu dragón (Spain);Cómo entrenar a tu dragón (Argentina)
+90;movie;0113198;A Goofy Movie;Goofy e hijo (Spain);Goofy, la película (Argentina)
+90;movie;3783958;La La Land;La ciudad de las estrellas (La La Land) (Spain);La La Land: Ciudad de Sueños (Chile)
+90;show;3398228;BoJack Horseman;BoJack Horseman (Spain);ND
+90;show;0417299;Avatar: The Last Airbender;Avatar: el último maestro aire (Spain) (alternative spelling);ND
+90;show;2467372;Brooklyn Nine-Nine;Brooklyn Nine-Nine (Spain);ND
+91;movie;1375666;Inception;Origen (Spain);El origen (Chile)
+91;movie;0332280;The Notebook;El diario de Noa (Spain);Diario de una pasión (Chile)
+91;movie;1130884;Shutter Island;Shutter Island (Spain);La isla siniestra (Argentina)
+91;show;0944947;Game of Thrones;Juego de tronos (Spain);Game of Thrones (Chile)
+91;show;7137906;When They See Us;Así nos ven (Spain);Así nos ven (Argentina)
+91;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+92;movie;3315342;Logan;Logan (Spain);Logan (Chile)
+92;movie;2974050;Cool Cat Saves the Kids;ND;ND
+92;movie;5311514;Your Name.;Your Name. (Spain);Your Name. (Chile)
+92;show;0845738;When They Cry;ND;ND
+92;show;7221388;Cobra Kai;Cobra Kai (Spain);Cobra Kai (Argentina)
+92;show;4474344;Blindspot;Blindspot (Spain);ND
+97;movie;0816692;Interstellar;Interstellar (Spain);Interestelar (Chile)
+97;movie;1453405;Monsters University;Monstruos University (Spain);Monsters University (Chile)
+97;movie;0114709;Toy Story;Toy Story (Juguetes) (Spain) (complete title);Toy Story (Argentina)
+97;show;0397442;Gossip Girl;Gossip Girl (Spain);Gossip Girl: Chica Indiscreta (Argentina)
+97;show;0096697;The Simpsons;Los Simpson (Spain);Los Simpson (Argentina)
+97;show;1837642;Revenge;Revenge (Spain);ND
+98;movie;1638002;Love, Rosie;Los imprevistos del amor (Spain);Los imprevistos del amor (Chile)
+98;movie;0486822;Disturbia;Disturbia (Spain);Paranoia (Argentina)
+98;movie;1659337;The Perks of Being a Wallflower;Las ventajas de ser un marginado (Spain);Las ventajas de ser invisible (Chile)
+98;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+98;show;0397442;Gossip Girl;Gossip Girl (Spain);Gossip Girl: Chica Indiscreta (Argentina)
+98;show;7134908;Elite;Élite (Spain);ND
+99;movie;1677720;Ready Player One;Ready Player One (Spain);Ready Player One: Comienza el Juego (Chile)
+99;movie;0361748;Inglourious Basterds;Malditos bastardos (Spain);Bastardos sin gloria (Argentina)
+99;movie;0120737;The Lord of the Rings: The Fellowship of the Ring;El señor de los anillos: La comunidad del anillo (Spain);El señor de los anillos: La comunidad del anillo (Chile)
+99;show;0944947;Game of Thrones;Juego de tronos (Spain);Game of Thrones (Chile)
+99;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+99;show;0417299;Avatar: The Last Airbender;Avatar: el último maestro aire (Spain) (alternative spelling);ND
+100;movie;0246578;Donnie Darko;Donnie Darko (Spain);Donnie Darko (Chile)
+100;movie;7984734;The Lighthouse;El faro (Spain);ND
+100;movie;0091214;Man Facing Southeast;ND;ND
+100;show;4288182;Atlanta;Atlanta (Spain);Atlanta (Argentina)
+100;show;4158110;Mr. Robot;Mr. Robot (Spain);ND
+100;show;3398228;BoJack Horseman;BoJack Horseman (Spain);ND
+101;movie;1375670;Grown Ups;Niños grandes (Spain);Son como niños (Argentina)
+101;movie;2381941;Focus;Focus (Spain);Focus: Maestros de la Estafa (Chile)
+101;movie;0993846;The Wolf of Wall Street;El lobo de Wall Street (Spain);El lobo de Wall Street (Chile)
+101;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+101;show;0460649;How I Met Your Mother;Cómo conocí a vuestra madre (Spain);ND
+101;show;0898266;The Big Bang Theory;Big Bang (Spain);La teoría del Big Bang (Argentina)
+102;movie;0126029;Shrek;Shrek (Spain);Shrek (Argentina)
+102;movie;0268978;A Beautiful Mind;Una mente maravillosa (Spain);Una mente brillante (Argentina)
+102;movie;0395699;The Pacifier;Un canguro superduro (Spain);Niñera a prueba de balas (Argentina)
+102;show;3520702;Bloodline;Bloodline (Spain);Bloodline (Argentina)
+102;show;0840196;Skins;Skins (Spain);ND
+102;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+103;movie;0118799;Life Is Beautiful;La vida es bella (Spain);La vida es bella (Argentina)
+103;movie;2278388;The Grand Budapest Hotel;El gran hotel Budapest (Spain);El gran hotel Budapest (Chile)
+103;movie;0365748;Shaun of the Dead;Zombies Party (Una noche... de muerte) (Spain);Muertos de risa (Argentina)
+103;show;0436992;Doctor Who;Doctor Who (Spain);Doctor Who (Argentina)
+103;show;2861424;Rick and Morty;Rick y Morty (Spain);Rick y Morty (Argentina)
+103;show;1312171;The Umbrella Academy;The Umbrella Academy (Spain);The Umbrella Academy (Argentina)
+104;movie;1211837;Doctor Strange;Doctor Extraño (Spain) (alternative title);Doctor Strange: Hechicero Supremo (Chile)
+104;movie;4154756;Avengers: Infinity War;Vengadores: La guerra del infinito - 1ª parte (Spain) (alternative title);Avengers: Infinity War (Chile)
+104;movie;4154796;Avengers: Endgame;Vengadores: Endgame (Spain);Avengers: Endgame (Chile)
+104;show;0214341;Dragon Ball Z;As bólas máxicas (Spain) (Gallegan title);Dragon Ball Z (Argentina)
+104;show;6470478;The Good Doctor;The Good Doctor (Spain);ND
+104;show;1475582;Sherlock;Sherlock (Spain);ND
+105;movie;0361748;Inglourious Basterds;Malditos bastardos (Spain);Bastardos sin gloria (Argentina)
+105;movie;0114369;Se7en;Seven (Spain);Pecados capitales (Argentina)
+105;movie;0137523;Fight Club;El club de la lucha (Spain);El club de la pelea (Argentina)
+105;show;2431438;Sense8;Sense8 (Spain);Sense8 (Argentina)
+105;show;6315640;Atypical;Atípico (Spain);ND
+105;show;1312171;The Umbrella Academy;The Umbrella Academy (Spain);The Umbrella Academy (Argentina)
+106;movie;0441773;Kung Fu Panda;Kung Fu Panda (Spain);Kung Fu Panda (Argentina)
+106;movie;0317705;The Incredibles;Los Increíbles (Spain);Los increíbles (Chile)
+106;movie;2250912;Spider-Man: Homecoming;Spider-Man: Homecoming (Spain);Spider-Man: De regreso a casa (Chile)
+106;show;0455275;Prison Break;Prison Break (Spain);Prison Break (Argentina)
+106;show;0944947;Game of Thrones;Juego de tronos (Spain);Game of Thrones (Chile)
+106;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+107;movie;8579674;1917;1917 (Spain);1917 (Chile) (Spanish title)
+107;movie;0468569;The Dark Knight;El caballero oscuro (Spain);Batman - El caballero de la noche (Argentina)
+107;movie;0080684;Star Wars: Episode V - The Empire Strikes Back;Star Wars: Episodio V - El Imperio contraataca (Spain) (alternative title);El imperio contraataca (Chile)
+107;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+107;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+107;show;3107288;The Flash;The Flash (Spain);ND
+108;movie;6751668;Parasite;Parásitos (Spain);Parasite (Chile) (Spanish title)
+108;movie;1587310;Maleficent;Maléfica (Spain);Maléfica (Chile)
+108;movie;0936501;Taken;Venganza (Spain);Búsqueda implacable (Argentina)
+108;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+108;show;1844624;American Horror Story;American Horror Story: Murder House (Spain) (first season title);ND
+108;show;5421602;Anne with an E;Anne with an E (Spain);Anne with an E (Argentina)
+109;movie;0414387;Pride & Prejudice;Pride & Prejudice (Orgullo y prejuicio) (Spain);Orgullo y prejuicio (Argentina)
+109;movie;1295085;Gifted Hands: The Ben Carson Story;El mundo en sus manos (Spain);Manos milagrosas (Argentina)
+109;movie;0110357;The Lion King;El Rei Lleó (Spain) (Catalan title);El Rey León (Chile) (Spanish title)
+109;show;1475582;Sherlock;Sherlock (Spain);ND
+109;show;2442560;Peaky Blinders;Peaky Blinders (Spain);Peaky Blinders (Argentina)
+109;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+110;movie;0172495;Gladiator;Gladiator (El gladiador) (Spain);Gladiador (Chile)
+110;movie;6751668;Parasite;Parásitos (Spain);Parasite (Chile) (Spanish title)
+110;movie;2980516;The Theory of Everything;La teoría del todo (Spain);La teoría del todo (Chile)
+110;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+110;show;0413573;Grey's Anatomy;Anatomía de Grey (Spain);Grey's Anatomy (Argentina)
+110;show;2306299;Vikings;Vikingos (Spain);Vikingos (Argentina)
+111;movie;7286456;Joker;Joker (Spain);Guasón (Chile)
+111;movie;2119532;Hacksaw Ridge;Hasta el último hombre (Spain);Hasta el último hombre (Chile)
+111;movie;1485796;The Greatest Showman;El gran showman (Spain);El Gran Showman (Chile)
+111;show;0903747;Breaking Bad;Breaking Bad (Spain);ND
+111;show;0944947;Game of Thrones;Juego de tronos (Spain);Game of Thrones (Chile)
+111;show;1520211;The Walking Dead;The Walking Dead (Spain);The Walking Dead (Argentina)
+112;movie;0475293;High School Musical;High School Musical (Spain);High School Musical (Argentina) (DVD title)
+112;movie;0810900;High School Musical 2;High School Musical 2 (Spain);ND
+112;movie;0962726;High School Musical 3;High School Musical 3: Fin de curso (Spain);High school musical 3 - La graduación (Argentina)
+112;show;1405406;The Vampire Diaries;Crónicas vampíricas (Spain);ND
+112;show;4052886;Lucifer;Lucifer (Spain);ND
+112;show;2467372;Brooklyn Nine-Nine;Brooklyn Nine-Nine (Spain);ND
+113;movie;3281548;Little Women;Mujercitas (Spain);Mujercitas (Chile)
+113;movie;1130884;Shutter Island;Shutter Island (Spain);La isla siniestra (Argentina)
+113;movie;0438097;Ice Age: The Meltdown;Ice Age 2: El deshielo (Spain);La era de hielo 2 (Argentina)
+113;show;5421602;Anne with an E;Anne with an E (Spain);Anne with an E (Argentina)
+113;show;0108778;Friends;Friends (Spain);Friends (Argentina)
+113;show;2661044;The 100;Los 100 (Spain);ND
+114;movie;0393162;Coach Carter;Entrenador Carter (Spain);Juego de honor (Argentina) (video title)
+114;movie;2380307;Coco;Coco (Spain);Coco (Chile)
+114;movie;1711425;21 & Over;Noche de marcha (Spain);21: La gran fiesta (Chile)
+114;show;0168366;Pokémon;Pokémon (Spain);Pokémon (Chile)
+114;show;0212671;Malcolm in the Middle;Malcolm (Spain);Malcolm (Argentina)
+114;show;0121955;South Park;South Park (Spain);South Park (Argentina)
+115;movie;0166813;Spirit: Stallion of the Cimarron;Spirit: El corcel indomable (Spain);Spirit: El corcel indomable (Argentina)
+115;movie;0110912;Pulp Fiction;Pulp Fiction (Spain);Pulp Fiction: Tiempos violentos (Chile)
+115;movie;0112641;Casino;Casino, de Scorsese (Spain) (alternative title);Casino (Argentina)
+115;show;5753856;Dark;Dark (Spain);Dark (Argentina)
+115;show;0944947;Game of Thrones;Juego de tronos (Spain);Game of Thrones (Chile)
+115;show;2861424;Rick and Morty;Rick y Morty (Spain);Rick y Morty (Argentina)

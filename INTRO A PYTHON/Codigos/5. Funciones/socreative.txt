@@ -1,0 +1,58 @@
+¿Qué imprime?
+8
+-8
+Error: hay un error en los parámetros
+Error: hay un error con el retorno
+Es una función normal con una llamada normal, donde se da la casualidad que las variables del código principal y las de la función tienen el mismo nombre (no es obligatorio que sea así)
+
+
+¿Qué imprime?
+8
+-8
+Error: hay un error en los parámetros (unos se llaman x/y, pero dentro de la función son a/b)
+Error: hay un error con el retorno
+El nombre de las variables que se usan para llamar la función (x/y) no tienen por que llamarse igual que los parámetros que se usan ya dentro de la función (a/b). Se sabe cual es cual, por el orden (x es la a por que es el primero, y es la b por que es el segundo)
+
+¿Qué imprime?
+8
+-8
+Error: variable 'a' no definida. Hay un error en las variables usadas para llamar la función (se está usando a y b, pero a y b son los parámetros de la función que solo se pueden acceder DENTRO de la función)
+Error: hay un error con el retorno
+Los parámetros (a/b) solo se pueden acceder dentro de la función. Fuera de la función es como si no existieran. Y por lo tanto no tiene ningún sentido usarlas para llamar a la función. 
+
+¿Qué imprime?
+8
+-8
+Error: hay un error en los parámetros (b es primero en la llamada, pero es el segundo parámetro de la función; a es segundo en la llamada, pero es el primer parámetro de la función)
+Error: hay un error en los parámetros (las variables usadas en la llamada y los parámetros de la función no pueden tener los mismos nombres por que hay el problema de que se borren/actualicen los valores y no se podrían usar después de la llamada)
+Lo único que determina que valores de la llamada corresponden a que parámetros es el ORDEN: el primer parámetro recibirá como valor el primer valor de la llamada, el segundo el segundo, etc. En este caso se da la curiosa coincidencia que la llamada usa a/b y los parámetros se llaman a/b, pero están en orden cambiado. 
+
+
+¿Qué imprime?
+10 menos 2 es 8
+2 menos 10 es -8
+Error: hay un error con los parámetros (se usa x/y en la llamada pero los parámetros se llaman a y b)
+Error: variable a no está definida (los parámetros solo se pueden acceder DENTRO de la función. En este caso, como fuera no hay ninguna variable llamada 'a' da error al intentar imprimirla) 
+El print intenta imprimir la variable a que no esta definida en el código principal (es cierto que hay un parámetro que se llama también a, pero recuerda que los parámetros solo son visibles para ser utilizados dentro de la función que los define)
+
+¿Qué imprime?
+8
+-8
+Error: hay un error en el retorno por que no coinciden (en la función se llama 'r', y en el código principal se llama 'res')
+Error: hay un error en el print (debería ser print(r) por que r es como se llama el resultado de la operación)
+La variable que se usa para devolver un valor en una función y la variable que se usa para recoger el valor de una llamada pueden tener nombres diferentes. Simplemente, el valor que se ponga en el "return" es el que se guardará en la variable que se asigne a la llamada a la función.
+
+¿Qué imprime?
+8
+-8
+Error: 'r' no está definida. Hay un error en el print (debería ser print(res) por que res es como se llama la variable donde se guarda el resultado de la llamada a función, mientras que 'r' es la variable usada DENTRO de la función, y por lo tanto no es visible fuera de la función.)
+Error: hay un error en la variable usada para guardar el resultado de la función (debería llamarse r en vez de res)
+Las variables creadas dentro de las funciones (incluida la que se usa para retornar un valor) solo son visibles dentro de la función. En este caso, al hacer print(r) no hay ninguna variable en el código principal llamada 'r'
+
+¿Qué imprime?
+13
+67
+76
+Error: los parámetros se definen como números (num1 y num2) pero los valores son strings. 
+Error: string + string da error
+Python no tiene cerebro: por mucho que tu llames a la función sumar o a las variables num, python usara lo que tu le des. Si la función restara, abría dado un error (str - str no tiene sentido). Pero en este caso tenemos aún mas mala suerte, por que str+str si que existe (concatena los dos strings). Por lo tanto nos devuelve el string 67 (y nosotros sin entender por que sumar dos números tan bajos da uno tan alto)
