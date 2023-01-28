@@ -1,0 +1,24 @@
+{
+    "HOST": "localhost",
+    "PORT": 47365,
+
+    "RUTA_VENTANA_INICIO": ["frontend", "UI", "VENTANA_INICIO.ui"],
+    "RUTA_VENTANA_ESPERA": ["frontend", "UI", "VENTANA_ESPERA.ui"],
+    "RUTA_VENTANA_JUEGO": ["frontend", "UI", "VENTANA_JUEGO.ui"],
+
+    "RUTA_LOGO": ["frontend", "Sprites", "Logos", "logo.png"],
+    "RUTA_FONDO": ["frontend", "Sprites", "Logos", "fondo.png"],
+    "RUTA_TABLERO": ["frontend", "Sprites", "Juego", "tablero.png"],
+    "RUTA_DADO": ["frontend", "Sprites", "Logos", "dado.png"],
+    "RUTA_ESTRELLA": ["frontend", "Sprites", "Juego", "estrella.png"],
+
+    "RUTA_DOBLES_ROJO": ["frontend", "Sprites", "Fichas", "Dobles", "fichas-rojas.png"],
+    "RUTA_DOBLES_VERDE": ["frontend", "Sprites", "Fichas", "Dobles", "fichas-verdes.png"],
+    "RUTA_DOBLES_AZUL": ["frontend", "Sprites", "Fichas", "Dobles", "fichas-azules.png"],
+    "RUTA_DOBLES_AMARILLO": ["frontend", "Sprites", "Fichas", "Dobles", "fichas-amarillas.png"],
+
+    "RUTA_ROJO": ["frontend", "Sprites", "Fichas", "Simples", "ficha-roja.png"],
+    "RUTA_VERDE": ["frontend", "Sprites", "Fichas", "Simples", "ficha-verde.png"],
+    "RUTA_AZUL": ["frontend", "Sprites", "Fichas", "Simples", "ficha-azule.png"],
+    "RUTA_AMARILLO": ["frontend", "Sprites", "Fichas", "Simples", "ficha-amarilla.png"]
+}
